@@ -11,10 +11,12 @@ gem 'therubyracer'
 
 gem 'heroku', '2.24.1'
 gem 'doorkeeper', '~> 0.3.0'
-gem "formtastic", "~> 2.1.1"
+gem 'formtastic', '~> 2.1.1'
 gem 'activeadmin'
 gem 'meta_search', '>= 1.1.0.pre'
 gem 'paper_trail', '2.6.3'
+gem 'rabl', '0.6.9'
+gem 'country_select'
 
 # Gems used only for assets and not required
 # in production environments by default.
