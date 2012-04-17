@@ -17,7 +17,6 @@ gem 'meta_search', '>= 1.1.0.pre'
 gem 'paper_trail', '2.6.3'
 gem 'rabl', '0.6.9'
 gem 'country_select'
-# gem 'taps', '0.3.23'
 
 # Gems used only for assets and not required
 # in production environments by default.
