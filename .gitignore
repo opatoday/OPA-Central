@@ -6,6 +6,8 @@
 
 *~
 *.*~
+*.dat
+*.dump
 *.rbc
 *.sassc
 .sass-cache
